@@ -2,7 +2,7 @@
 
 📍 Chiauci (IS), Italy  
 ✉️ giuseppemuccillo82@gmail.com  
-🔗 [GitHub](https://github.com/Giuseppe-1982)
+🔗 [GitHub](https://github.com/gmuc-dev)
 
 ---
 
@@ -26,12 +26,12 @@ Motivated and detail-oriented **Junior Web Developer** seeking an opportunity to
 ### Solar Cycle Animation (Vite version)
 **Technologies:** HTML, CSS, SCSS, JavaScript, Node.js, npm, Vite.js  
 A creative exploration of complex ambient animations including clouds, sun, moon, and shooting stars, implemented using custom SCSS mixins for modular and scalable animation control.  
-**GitHub:** [github.com/Giuseppe-1982/sun-animation-base](https://github.com/Giuseppe-1982/sun-animation-base)
+**GitHub:** [github.com/gmuc-dev/sun-animation-base](https://github.com/gmuc-dev/sun-animation-base)
 
 ### Solar Cycle Animation (Webpack version)
 **Technologies:** HTML, CSS, SCSS, JavaScript, Node.js, npm, Webpack  
 A refactored version of the Solar Cycle Animation project, rebuilt with Webpack for custom configuration and build optimization.  
-**GitHub:** [github.com/Giuseppe-1982/sun-animation-webpack](https://github.com/Giuseppe-1982/sun-animation-webpack)
+**GitHub:** [github.com/gmuc-dev/sun-animation-webpack](https://github.com/gmuc-dev/sun-animation-webpack)
 
 ---
 
