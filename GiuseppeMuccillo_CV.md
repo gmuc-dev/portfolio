@@ -2,7 +2,7 @@
 
 📍 Chiauci (IS), Italy  
 ✉️ giuseppemuccillo82@gmail.com  
-**🔗 GitHub:** [github.com/gmuc-dev/sun-animation-base](https://github.com/gmuc-dev/sun-animation-base)
+🔗 [GitHub](https://github.com/gmuc-dev) — https://github.com/gmuc-dev
 
 ---
 
